@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NirmalaBabu
 - 👀 I’m interested in Dancing
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m a Data Science, waiting for the dream job
 - 📫 How to reach me email me!!!!
 
 <!---
